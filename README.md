@@ -8,8 +8,11 @@ One of the best books you can/should/must read: [Write Great Code Volume 1](http
 
 It's follow-up: [Write Great Code Volume 2](https://www.nostarch.com/greatcode2.htm)
 
-The code in lab one presents a memory leak during multiplication that was not fixed.
-The fix is easy: Don't use pointers. You can just directly instatiate the objects.
+The code in lab one presents a memory leak during multiplication and addition that was not fixed.
+
+The fix is easy: <b>Don't use pointers</b>. You can just directly instatiate the objects.
+
+And yes, this is a critical oversight that could have easily been avoided.
 
 ## Lab 2 - Fixed Point Iteration Equation Resolution
 
@@ -23,5 +26,9 @@ This is worst of the labs and the one we have worked for the least. Time and wil
 ## Lab 5 - Integrals
 ## Lab 6 - Differential Equations
 
-### Authors
+## ToDo
+
+Probably fix the code. Some day, when I have time.
+
+## Authors
 [Horia Mut](http://github.com/Drakesinger), [Romain Claret](http://github.com/Rocla), [Nils Ryter](http://github.com/arkeine)
