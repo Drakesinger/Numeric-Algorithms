@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1430431099 source:/media/cloud/arkeine/git/algo-num/labs/Lab2-FixedPointIteration/codeblocks/SolveEquation/main.cpp
+	<iostream>
+	<set>
+	<stdio.h>
+	"include/MultipleSolutions.h"
+	"equations/Equation_1.h"
+	"equations/Equation_2.h"
+	<assert.h>
+
+1430431056 /media/cloud/arkeine/git/algo-num/labs/Lab2-FixedPointIteration/codeblocks/SolveEquation/include/FixePointSolve.h
+
+1430430880 source:/media/cloud/arkeine/git/algo-num/labs/Lab2-FixedPointIteration/codeblocks/SolveEquation/src/FixePointSolve.cpp
+	"../include/FixePointSolve.h"
+	"../equations/Equation.h"
+	<math.h>
+
+1430429603 source:/media/cloud/arkeine/git/algo-num/labs/Lab2-FixedPointIteration/codeblocks/SolveEquation/src/MultipleSolutions.cpp
+	"../include/MultipleSolutions.h"
+	"../include/FixePointSolve.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1430429577 /media/cloud/arkeine/git/algo-num/labs/Lab2-FixedPointIteration/codeblocks/SolveEquation/include/MultipleSolutions.h
+	<iostream>
+	<set>
+
+1430428781 source:/media/cloud/arkeine/git/algo-num/labs/Lab2-FixedPointIteration/codeblocks/SolveEquation/equations/Equation.cpp
+	"Equation.h"
+
+1430428897 /media/cloud/arkeine/git/algo-num/labs/Lab2-FixedPointIteration/codeblocks/SolveEquation/equations/Equation.h
+
+1430429224 source:/media/cloud/arkeine/git/algo-num/labs/Lab2-FixedPointIteration/codeblocks/SolveEquation/equations/Equation_1.cpp
+	"Equation_1.h"
+
+1430429017 /media/cloud/arkeine/git/algo-num/labs/Lab2-FixedPointIteration/codeblocks/SolveEquation/equations/Equation_1.h
+	"Equation.h"
+
+1430429373 source:/media/cloud/arkeine/git/algo-num/labs/Lab2-FixedPointIteration/codeblocks/SolveEquation/equations/Equation_2.cpp
+	"Equation_2.h"
+	<math.h>
+
+1430429361 /media/cloud/arkeine/git/algo-num/labs/Lab2-FixedPointIteration/codeblocks/SolveEquation/equations/Equation_2.h
+	"Equation.h"
+

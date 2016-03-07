@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1425495417 source:/media/cloud/arkeine/git/algo-num/17bits-binarynumber-implementation/labo1/src/BinaryFloat.cpp
+	"BinaryFloat.h"
+
+1425487488 source:/media/cloud/arkeine/git/algo-num/17bits-binarynumber-implementation/labo1/src/ToolBinaryFloat.cpp
+	"ToolBinaryFloat.h"
+
+1425377280 /media/cloud/arkeine/git/algo-num/17bits-binarynumber-implementation/labo1/include/ToolBinaryFloat.h
+	"BinaryFloat.h"
+
+1425496684 /media/cloud/arkeine/git/algo-num/17bits-binarynumber-implementation/labo1/include/BinaryFloat.h
+	<iostream>
+
+1425495861 source:/media/cloud/arkeine/git/algo-num/17bits-binarynumber-implementation/labo1/src/main.cpp
+	"BinaryFloat.h"
+	<iostream>
+	"ToolBinaryFloat.h"
+
+1425834942 source:/media/cloud/arkeine/git/algo-num/17bits-binarynumber-implementation/labo1/src/MFloat17.cpp
+	"MFloat17.h"
+	<math.h>
+	<assert.h>
+
+1425829885 /media/cloud/arkeine/git/algo-num/17bits-binarynumber-implementation/labo1/include/MFloat17.h
+	<string>
+	"MTypes.h"
+
+1425829885 /media/cloud/arkeine/git/algo-num/17bits-binarynumber-implementation/labo1/include/MTypes.h
+
+1425833078 source:/media/cloud/arkeine/git/algo-num/17bits-binarynumber-implementation/labo1/src/Source.cpp
+	<iostream>
+	<stdio.h>
+	"MFloat17.h"
+
+1425772160 source:c:\development\projects\numericalgorithms\binarynumberrepresentation\labo1\src\mfloat17.cpp
+	"MFloat17.h"
+	<math.h>
+	<assert.h>
+
+1425772059 c:\development\projects\numericalgorithms\binarynumberrepresentation\labo1\include\mfloat17.h
+	<string>
+	"MTypes.h"
+
+1425772073 c:\development\projects\numericalgorithms\binarynumberrepresentation\labo1\include\mtypes.h
+
+1425772059 source:c:\development\projects\numericalgorithms\binarynumberrepresentation\labo1\src\source.cpp
+	<iostream>
+	<stdio.h>
+	"MFloat17.h"
+
